@@ -1,0 +1,42 @@
+.footerContent {
+	float: none;
+	text-align: center;
+}
+
+.fontSize14 {
+	font-size: 14px;
+}
+
+.fontSize12 {
+	font-size: 12px;
+}
+
+.boldText {
+	font-weight: bold;
+}
+
+.carouselMainImage {
+	margin: auto;
+	width: 100%;
+}
+
+.logoCenter {
+	margin: auto;
+	display: block;
+}
+
+.vertical-spacer-gold {
+	height: 5px;
+	background-color: #b59901;
+}
+
+.customNavbar { 
+	margin-bottom: 0px;
+	border: 0px;
+}
+
+body {
+	background-image: url("../img/background.jpg");
+    background-repeat: repeat-x;
+	background-color: #b59901;
+}
